@@ -3,10 +3,13 @@
 # Register no.212222040070
 # Aim: To perform the Exploration of Prompting Techniques for Audio Generation
 # Algorithm: 
-Explore how various prompting techniques can be used to generate and manipulate audio content (e.g., music, sound effects, voice narration) using AI model
-Image Analysis: Study the given image in detail—identify key objects, colors, lighting, textures, and style. 
-prompt detail:“A classroom in 2050 with AI holographic assistants, students learning using VR headsets and gesture controls, ultra-modern design.”
-Model Selection: Use a suitable image generation tool (e.g., DALL·E, MidJourney, Stable Diffusion). Image Generation: Input the prompt and generate the image. Compare & Refine: Compare the AI-generated image with the original; modify the prompt if necessary. Save & Document: Save the final image and document all iterations of prompts along with observations.
+1.Explore how various prompting techniques can be used to generate and manipulate audio content (e.g., music, sound effects, voice narration) using AI model.
+
+2.Image Analysis: Study the given image in detail—identify key objects, colors, lighting, textures, and style.
+
+3.prompt detail:“A classroom in 2050 with AI holographic assistants, students learning using VR headsets and gesture controls, ultra-modern design.”
+
+4.Model Selection: Use a suitable image generation tool (e.g., DALL·E, MidJourney, Stable Diffusion). Image Generation: Input the prompt and generate the image. Compare & Refine: Compare the AI-generated image with the original; modify the prompt if necessary. Save & Document: Save the final image and document all iterations of prompts along with observations.
 # Procedure:
 Analyze the Given Image: Carefully examine the original image and note:
 Objects or Subjects: People, animals, buildings, trees, etc. Colors: Dominant hues, contrasts, and gradients. Textures: Rough, glossy, matte, smooth surfaces. Lighting: Shadows, brightness, direction of light. Style: Realistic, cartoon, impressionist, surreal, etc. Composition: Arrangement, focus, background elements. 2. Create a Basic Prompt: Example: "A forest with mountains in the background and a river flowing through it."
